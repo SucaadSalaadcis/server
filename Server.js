@@ -24,4 +24,4 @@ app.use(electronicRoute);
 
 
 
-app.listen(7000 , () => console.log("Server is Runing on port 5000")) 
+app.listen(7000 , () => console.log("Server is Runing on port 7000")) 
